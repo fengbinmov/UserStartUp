@@ -38,7 +38,18 @@ namespace UserStartUp
         }
         public Form1()
         {
+
             InitializeComponent();
+
+            if (File.Exists(Application.StartupPath + "\\UserICO.ico"))
+            {
+                System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+
+                
+                Icon icon = Icon.ExtractAssociatedIcon(Application.StartupPath + "\\UserICO.ico");
+                this.Icon = icon;
+                this.notifyIcon1.Icon = icon;
+            }
 
             UpdateCom(LoadData());
 
@@ -123,6 +134,11 @@ namespace UserStartUp
             return root;
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
+            this.Hide();
+        }
     }
 
     public class App{

@@ -15,3 +15,4 @@ F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Release\Us
 F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Release\UserStartUp.csproj.GenerateResource.cache
 F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Release\UserStartUp.exe
 F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Release\UserStartUp.pdb
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Release\UserStartUp.csprojAssemblyReference.cache
