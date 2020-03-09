@@ -1,0 +1,17 @@
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UserStartUp.Form1.resources
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UserStartUp.csproj.GenerateResource.cache
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\C09_C#_Code\自定义启动程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\bin\Debug\UserStartUp.exe.config
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\bin\Debug\UserStartUp.exe
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\bin\Debug\UserStartUp.pdb
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Debug\UserStartUp.csprojAssemblyReference.cache
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Debug\UserStartUp.Form1.resources
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Debug\UserStartUp.Properties.Resources.resources
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Debug\UserStartUp.csproj.GenerateResource.cache
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Debug\UserStartUp.exe
+F:\C09_C#_Code\自定义启动程序\UserStartUp\WindowsFormsApp1\obj\Debug\UserStartUp.pdb
